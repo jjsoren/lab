@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppModule>
+  <UniqueName>lab_warehouseapp</UniqueName>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <WebResourceId>953b9fac-1e5e-e611-80d6-00155ded156f</WebResourceId>
+  <OptimizedFor>
+  </OptimizedFor>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+  <FormFactor>1</FormFactor>
+  <ClientType>4</ClientType>
+  <NavigationType>0</NavigationType>
+  <AppModuleComponents>
+    <AppModuleComponent type="62" schemaName="lab_warehouseapp" />
+    <AppModuleComponent type="1" schemaName="lab_warehouselocation" />
+    <AppModuleComponent type="1" schemaName="lab_warehouseitem" />
+    <AppModuleComponent type="1" schemaName="lab_warehousetransaction" />
+    <AppModuleComponent type="60" id="{c89005fd-0895-4918-9d81-628294cdedba}" />
+    <AppModuleComponent type="60" id="{9050212c-d00c-4dcd-bba6-747186854faf}" />
+    <AppModuleComponent type="60" id="{0a23563f-31e3-421c-8832-9bbf49694315}" />
+    <AppModuleComponent type="26" id="{d286e845-7864-401e-91be-028d9363c7fb}" />
+    <AppModuleComponent type="26" id="{af358738-af54-433d-9abd-ed007b6aed82}" />
+    <AppModuleComponent type="26" id="{d1edc8aa-95b2-4375-ad04-6ac8b859bbf2}" />
+  </AppModuleComponents>
+  <AppModuleRoleMaps>
+    <Role id="{1bdfab5d-17fa-4f2a-be7d-bf1cc6692221}" />
+  </AppModuleRoleMaps>
+  <LocalizedNames>
+    <LocalizedName description="Warehouse Management" languagecode="1033" />
+  </LocalizedNames>
+  <appsettings>
+    <appsetting settingdefinitionid.uniquename="AppChannel">
+      <iscustomizable>1</iscustomizable>
+      <value>1</value>
+    </appsetting>
+  </appsettings>
+</AppModule>
