@@ -13,5 +13,7 @@
   "devEnvId": "4264d478-5bd2-eef9-8a73-f5cfaeb4ed1b",
   "devOrgId": "b20fb800-95d0-f111-be87-6045bd06d92c",
   "testEnvId": "316c78f4-70d7-effe-9fac-641198d22f17",
-  "testOrgId": "3562dece-d9cf-f111-be87-6045bd06d926"
+  "testOrgId": "3562dece-d9cf-f111-be87-6045bd06d926",
+  "tenantId": "957a313a-971b-4add-b513-038b581bc3e7",
+  "appId": "7520a5d4-86b1-4785-b1cc-4156d1b9c82c"
 }
